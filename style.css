@@ -240,6 +240,23 @@ h4 {
   margin: 0 auto;
 }
 
+.contact-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.contact-image img {
+  width: 30px;
+  height: 23px;
+  margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+
+.contact-image p {
+  margin: 0; /* Elimina el margen por defecto del párrafo */
+}
+
 .contact input, .contact textarea {
   display: block;
   width: 100%;
