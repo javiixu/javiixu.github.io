@@ -239,7 +239,7 @@ textarea {
 
 .home-hero {
     color: #fff;
-    background: linear-gradient(to right,rgba(245,245,245,.8),rgba(245,245,245,.8)),url(/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg);
+    background: linear-gradient(to right,rgba(245,245,245,.8),rgba(245,245,245,.8)),url(../assets/svg/common-bg.svg);
     background-position: center;
     height: 100vh;
     min-height: 80rem;
